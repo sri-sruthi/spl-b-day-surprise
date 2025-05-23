@@ -43,9 +43,9 @@ const giftData = [
     {
         sender: "custom",
         senderName: "Lakshmi", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        cosmicWish: "Happy birthday cutie😊😻😍",
+        timeCapsule: "Therla😭♥️",
+        superpower: "Cutie♥️"
     },
     
     // Custom sender gifts - ADD YOUR FRIENDS' NAMES AND MESSAGES HERE

@@ -36,9 +36,9 @@ const giftData = [
     {
         sender: "custom",
         senderName: "Mayuri", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        cosmicWish: "Porantha naal vazhthukal thangachi 😆🥰",
+        timeCapsule: "Memories as in enaku solla theriyala. Every single day with you was a memory... and will forever be one. Shayee.😅",
+        superpower: "Kuttiya irunthalum settai romba jassti. Keep being u avalothan.😎"
     },
     {
         sender: "custom",

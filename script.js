@@ -53,9 +53,9 @@ const giftData = [
         sender: "custom",
         senderName: "Abi", // Replace with actual name
         senderIcon: "🎮",    // Optional custom icon
-        cosmicWish: "Happy birthday! Can't wait for our next gaming session!",
-        timeCapsule: "Remember when we stayed up all night beating that boss? Legendary!",
-        superpower: "Gaming Champion"
+        cosmicWish: "Hapieeee birthday d❤️",
+        timeCapsule: "did we all go on a trip now atleast???!!!",
+        superpower: "ur enthusiasm,ur support and ur criticism can churn mountains 🏔️"
     },
     {
         sender: "custom",

@@ -95,9 +95,9 @@ const giftData = [
   {
         sender: "custom",
         senderName: "Dhanvarshini", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        cosmicWish: "HAPPY BIRTHDAY FAVOURITE ❤️",
+        timeCapsule: "Us roasting Abilash in cir classes , concert night , you waited for me so I could complete my DV assignment",
+        superpower: "I still couldn’t remember how our convo started and today you’ve become an important part of my life. Ik for sure you’ll stay with me in my ups and downs and I can rely on you anytime😭"
     },
   {
         sender: "custom",

@@ -87,17 +87,17 @@ const giftData = [
     },
   {
         sender: "custom",
-        senderName: "Gouri", // Replace with actual name
-        cosmicWish: "Happy birthday  krishnaaa 😁🥳",
-        timeCapsule: "I enjoy the times when we used to be neighbours in first year and we also had a lot of fun moments together 😂",
-        superpower: "You are a really cool person and funny too 😸"
-    },
-  {
-        sender: "custom",
         senderName: "Dhanvarshini", // Replace with actual name
         cosmicWish: "HAPPY BIRTHDAY FAVOURITE ❤️",
         timeCapsule: "Us roasting Abilash in cir classes , concert night , you waited for me so I could complete my DV assignment",
         superpower: "I still couldn’t remember how our convo started and today you’ve become an important part of my life. Ik for sure you’ll stay with me in my ups and downs and I can rely on you anytime😭"
+    },
+  {
+        sender: "custom",
+        senderName: "Gouri (Chechi)", // Replace with actual name
+        cosmicWish: "Happy birthday  krishnaaa 😁🥳",
+        timeCapsule: "I enjoy the times when we used to be neighbours in first year and we also had a lot of fun moments together 😂",
+        superpower: "You are a really cool person  and funny too 😸"
     },
   {
         sender: "custom",

@@ -59,7 +59,7 @@ const giftData = [
     },
     {
         sender: "custom",
-        senderName: "Gouri", // Replace with actual name
+        senderName: "Mirthiya", // Replace with actual name
         cosmicWish: "Happy birthday  krishnaaa 😁🥳",
         timeCapsule: "I enjoy the times when we used to be neighbours in first year and we also had a lot of fun moments together 😂",
         superpower: "You are a really cool person and funny too 😸"
@@ -87,10 +87,10 @@ const giftData = [
     },
   {
         sender: "custom",
-        senderName: "Mirthiya", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        senderName: "Gouri", // Replace with actual name
+        cosmicWish: "Happy birthday  krishnaaa 😁🥳",
+        timeCapsule: "I enjoy the times when we used to be neighbours in first year and we also had a lot of fun moments together 😂",
+        superpower: "You are a really cool person and funny too 😸"
     },
   {
         sender: "custom",

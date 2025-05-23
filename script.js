@@ -144,9 +144,9 @@ const giftData = [
   {
         sender: "custom",
         senderName: "Nimisha", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        cosmicWish: "Happy Birthday krishna 🎂🥳",
+        timeCapsule: "Meratal vibes with you",
+        superpower: "Engertic girl"
     },
   {
         sender: "custom",

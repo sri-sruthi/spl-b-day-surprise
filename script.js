@@ -109,8 +109,7 @@ const giftData = [
   {
         sender: "custom",
         senderName: "Hansinee", // Replace with actual name
-        cosmicWish: "Happpyyy happy birthday The Great Krishna Midula! 😂💗
-",
+        cosmicWish: "Happpyyy happy birthday The Great Krishna Midula! 😂💗",
         timeCapsule: "I have a lot of memories with you. Everytime we bump into each other it becomes sweet. And I'll never forget the CIR classes with you.",
         superpower: "You're very spontaneous confident and funny."
     },

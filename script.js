@@ -66,17 +66,10 @@ const giftData = [
     },
   {
         sender: "custom",
-        senderName: "Sivachandra", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
-    },
-  {
-        sender: "custom",
         senderName: "Madhura", // Replace with actual name
-        cosmicWish: "To 20 more years of friendship! Cheers!",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        cosmicWish: "Happy Birthday Krishna❤️❤️",
+        timeCapsule: "The phonetics class you took and your cover of Kanmani Anbodu😄",
+        superpower: "Terrific dancer and superb mimicry artist"
     },
   {
         sender: "custom",
@@ -84,6 +77,13 @@ const giftData = [
         cosmicWish: "Happiest Birthday Krishna💖",
         timeCapsule: "Time we spent in 137, our luckyass entertainment, your beautiful singing and dancing.",
         superpower: "Funny, Chaotic, cute ,happy , shy , a bit superstitious when it comes to RCB fan match, the great Krishna"
+    },
+  {
+        sender: "custom",
+        senderName: "Chinmayee", // Replace with actual name
+        cosmicWish: "happy birthday roomie!! ur finally no longer a teen.",
+        timeCapsule: "when we all slept with our 4 beds put together....total amakalam",
+        superpower: "u hv a superpower of being super annoying...kidding (not)"
     },
   {
         sender: "custom",
@@ -157,10 +157,10 @@ const giftData = [
     },
   {
         sender: "custom",
-        senderName: "Sri Sruthi", // Replace with actual name
-        cosmicWish: "I hope you would achive your life's purpose.",
-        timeCapsule: "That road trip we took last summer was the best!",
-        superpower: "Adventure Buddy"
+        senderName: "Sivachandra", // Replace with actual name
+        cosmicWish: "Happy Birthday, Little Krishna! 🥳🍰🍫",
+        timeCapsule: "Every time I talk with you, it’s always fun whether it is you teasing me, me teasing you back... it’s honestly the best.Especially the time when we were neighbors in the hostel",
+        superpower: "You’re a Smiley soul"
     },
     // Add more gifts (total 19) alternating between anime and custom senders
     // ...
@@ -273,10 +273,10 @@ document.addEventListener('DOMContentLoaded', function() {
         bonus.innerHTML = '20';
         bonus.addEventListener('click', function() {
             modal.style.display = 'block';
-            document.getElementById('modalTitle').textContent = "The Most Special Gift of All!";
+            document.getElementById('modalTitle').textContent = "And This is The Most Special Gift of All for us- It's You!";
             document.getElementById('modalSender').textContent = "🌟 From: The Soul for whom you are her Answered Prayer";
             document.getElementById('modalWish').textContent = "The most precious gift is your friendship. Your ability to undertstand others is unparalleled. Thank you for being such a kind person! And you deserve so much happiness and love in your life! ❤️";
-            document.getElementById('modalMemory').textContent = "Every moment with you becomes a treasured memory. I smile automatically when I look at you, I don't even have to think about it, you know. 🥰";
+            document.getElementById('modalMemory').textContent = "Every moment with you becomes a treasured memory, which even when recollected gives so much happiness and peace. I smile automatically when I look at you, I don't even have to think about it, you know. 🥰";
             document.getElementById('modalDescriptor').textContent = "Irreplaceable";
             
             confetti({

@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', function() {
         bonus.innerHTML = '20';
         bonus.addEventListener('click', function() {
             modal.style.display = 'block';
-            document.getElementById('modalTitle').textContent = "And This is The Most Special Gift of All for us- It's You!";
+            document.getElementById('modalTitle').textContent = "And This Is the Most Special Gift of All for All Your Friends — It’s You!";
             document.getElementById('modalSender').textContent = "🌟 From: The Soul for whom you are her Answered Prayer";
             document.getElementById('modalWish').textContent = "The most precious gift is your friendship. Your ability to undertstand others is unparalleled. Thank you for being such a kind person! And you deserve so much happiness and love in your life! ❤️";
             document.getElementById('modalMemory').textContent = "Every moment with you becomes a treasured memory, which even when recollected gives so much happiness and peace. I smile automatically when I look at you, I don't even have to think about it, you know. 🥰";

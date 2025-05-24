@@ -59,10 +59,10 @@ const giftData = [
     },
     {
         sender: "custom",
-        senderName: "Mirthiya", // Replace with actual name
-        cosmicWish: "Happy birthday  krishnaaa 😁🥳",
-        timeCapsule: "I enjoy the times when we used to be neighbours in first year and we also had a lot of fun moments together 😂",
-        superpower: "You are a really cool person and funny too 😸"
+        senderName: "Sri Sruthi", // Replace with actual name
+        cosmicWish: "Happiest b'day Krishnaaaaa!🥹🥰❤️💝",
+        timeCapsule: "Memories?! I truly treasure every moment with you... it always gives me sooo much happiness and peace, even when I think about them... Once while writing an exam, I got quite anxious... Then, I recollected a memory with you wherein you offered me so much emotional support with kindness when I did not perform well in my SIT exam when I forgot my calculator... you offered me so much support and we watched an entire RCB match together... that really made me soooooo much happy and I felt so safe... idhe maadhiri innum neraiya memories iruku😭😭... adhellaam yosicha kuda it gives me so much happiness and peace... thank you so much for everything, for helping me during the toughest phase in my life!❤️ I truly cannot describe in words how much you've helped me when I had absolutely no one else! You'll forever be close to my soul, and I mean it from the bottom of my heart! 😭🥹🥰❤️",
+        superpower: "Your unparalled ability to understand others and your genuine concern and kindness for others are truly gems of qualities. 💎💎 You make the world a better place to be just by your presence, not only for me but you've had a profound impact in a lot of your friends' lives (and that's what I understood while collecting wishes for you from everyone; you are deeply appreciated by your friends and you'll always be)!😭🥰❤️ I'm so grateful to God for your presence in my life!😭🥹🥰❤️💝"
     },
   {
         sender: "custom",
